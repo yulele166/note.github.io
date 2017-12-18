@@ -12,9 +12,9 @@
     var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
     var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
     if (!(bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) ){
-        window.location.href="http://blog.csdn.net/lmj623565791";
+        window.location.href="http://blog.csdn.net/u013897685";
     } else {
-        window.location.href="http://m.blog.csdn.net/blog/index?username=lmj623565791";
+        window.location.href="http://m.blog.csdn.net/blog/index?username=u013897685";
     }
     }
     browserRedirect();
